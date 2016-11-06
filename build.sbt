@@ -1,4 +1,4 @@
-name := "PriceModuleSBT"
+name := "PriceModule"
 
 version := "1.0"
 
